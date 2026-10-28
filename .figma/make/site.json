@@ -1,0 +1,10 @@
+{
+  "description": "Helps Presidency campus visitors discover verified facilities, explore campus information, and navigate outdoor walking routes with clear, accessible guidance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
