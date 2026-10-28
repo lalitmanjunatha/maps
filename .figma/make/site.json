@@ -1,7 +1,8 @@
 {
-  "description": "Helps Presidency campus visitors discover verified facilities, explore campus information, and navigate outdoor walking routes with clear, accessible guidance.",
+  "title": "GENIX Campus Navigator",
+  "description": "Interactive campus navigation for Presidency University students, faculty, and visitors to discover facilities, services, and walking routes.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,

@@ -1,0 +1,6 @@
+{
+  "name": "GENIX Campus Navigator",
+  "description": "Interactive campus navigation for Presidency University students, faculty, and visitors to discover facilities, services, and walking routes.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
